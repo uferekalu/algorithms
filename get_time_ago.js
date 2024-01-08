@@ -1,0 +1,3 @@
+function getTimeAgo(timestamp) {
+
+}
